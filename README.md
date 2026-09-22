@@ -83,4 +83,5 @@ Full-stack engineer building AI-powered products and production LLM systems. I w
 </p>
 
 ---
-<p align="center"><i>⭐️ From <a href="https://github.com/prostrmk">prostrmk</a></i></p>
+<p align="center"><i>Explore my <a href="https://rmjdg.com/en">web development and services</a></i></p>
+
